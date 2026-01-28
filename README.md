@@ -1,11 +1,11 @@
-📊 Discounted Cash Flow (DCF) Valuation Model – Excel
+#Discounted Cash Flow (DCF) Valuation Model – Excel
 📌 Project Overview
 
 This project is a Discounted Cash Flow (DCF) valuation model built entirely in Microsoft Excel to estimate the intrinsic value of a company based on its future cash flows.
 
 The model demonstrates strong fundamentals in corporate finance, valuation techniques, and financial modeling, commonly used in equity research, investment banking, and financial analysis roles.
 
-🎯 Objectives
+#Objectives
 
 Estimate the intrinsic value of a company using the DCF method
 
@@ -17,21 +17,9 @@ Derive Enterprise Value and Equity Value
 
 Analyze valuation sensitivity to key assumptions
 
-🛠 Tools & Skills Used
 
-Microsoft Excel
 
-Financial Modeling
-
-Corporate Valuation
-
-Time Value of Money
-
-Cost of Capital (WACC)
-
-Financial Statement Analysis
-
-📂 Model Structure
+#Model Structure
 
 The Excel model is structured into the following key sections:
 
@@ -77,7 +65,7 @@ WACC
 
 Terminal Growth Rate
 
-📈 Key Concepts Applied
+#Key Concepts Applied
 
 Discounted Cash Flow (DCF) Valuation
 
@@ -91,32 +79,10 @@ Sensitivity & Scenario Analysis
 
 📊 Key Insights
 
-The model highlights how small changes in WACC and growth assumptions significantly impact valuation
+intrinsic value of Trent Ltd at ₹1,754 per share versus market price of ₹4,770, indicating a 172% premium to fair value.
 
-Provides a structured approach to intrinsic value estimation
+Analyzed revenue growth, margin expansion, and valuation multiples, noting ~60% revenue CAGR (FY21–25) and EBITDA margin expansion from 4% to 16.5%.
 
-Suitable for investment decision-making and comparative analysis
+Evaluated key upside drivers including store expansion, market share gains, private label penetration, and omnichannel growth.
 
-📁 File Included
-
-DCF MODEL.xlsx – Fully functional Excel-based DCF valuation model
-
-🚀 How to Use
-
-Download the Excel file
-
-Update historical financial inputs if required
-
-Modify assumptions (growth rate, WACC, terminal growth)
-
-Analyze changes in valuation and sensitivity outputs
-
-👤 Author
-
-Piyush
-MBA (Finance) | Financial Analysis & Valuation
-Interested in Equity Research, Corporate Finance & Analytics
-
-⭐ If You Like This Project
-
-Give it a ⭐ on GitHub — it helps a lot!
+Assessed downside risks such as competitive intensity, execution risk, economic slowdown, rising rental costs, and working capital pressure.
