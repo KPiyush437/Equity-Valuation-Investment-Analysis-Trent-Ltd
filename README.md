@@ -1,11 +1,11 @@
-#Discounted Cash Flow (DCF) Valuation Model – Excel
+# Discounted Cash Flow (DCF) Valuation Model – Excel
 📌 Project Overview
 
 This project is a Discounted Cash Flow (DCF) valuation model built entirely in Microsoft Excel to estimate the intrinsic value of a company based on its future cash flows.
 
 The model demonstrates strong fundamentals in corporate finance, valuation techniques, and financial modeling, commonly used in equity research, investment banking, and financial analysis roles.
 
-#Objectives
+# Objectives
 
 Estimate the intrinsic value of a company using the DCF method
 
@@ -19,7 +19,7 @@ Analyze valuation sensitivity to key assumptions
 
 
 
-#Model Structure
+# Model Structure
 
 The Excel model is structured into the following key sections:
 
